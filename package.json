@@ -1,0 +1,29 @@
+{
+  "name": "react-native-spinner-modal",
+  "version": "1.0.4",
+  "description": "react native spinner ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spinner",
+    "loader",
+    "ios",
+    "Android",
+    "loader",
+    "activityindicator",
+    "Modal-activityindicator",
+    "Modal",
+    "activityindicator-modal"
+  ],
+  "author": "Harish arasu",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.2"
+  },
+  "dependencies": {
+    "react-native-spinner-modal": "^1.0.4"
+  }
+}
